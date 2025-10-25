@@ -1,9 +1,6 @@
- Hi, I’m Elsa!
+👋 Hi there, I'm Elsa Morina
 
-👀 I’m interested in web development, software engineering, and UI/UX design.
-
-🌱 I’m currently learning advanced React.js, Node.js, and system design.
-
-💞️ I’m looking to collaborate on web development projects.
-
-📫 How to reach me: https://portfolio-git-main-elsas-projects-0f9e8f30.vercel.app/#
+💻 Passionate Web Developer with a strong interest in software engineering and UI/UX design.
+🚀 Currently learning advanced React.js, Node.js, and system design to build scalable and user-friendly web applications.
+🤝 Open to collaborating on innovative web development projects that make a real impact.
+🌐 Portfolio: elsas-portfolio.vercel.app
